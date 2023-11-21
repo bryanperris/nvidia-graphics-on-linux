@@ -1,7 +1,7 @@
 # nvidia-graphics-on-linux
 It can be such a pain
 
-# Laptops with Hybrid GPUs (NVIDIA and Intel)
+# Laptops with Hybrid Graphics (NVIDIA and Intel)
 
 ## Fedora
 1. Follow instructions from https://github.com/gridhead/nvidia-auto-installer-for-fedora-linux
